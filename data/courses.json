@@ -1,0 +1,11 @@
+[
+    {
+        "id" : "01",
+        "CatID" : "01",
+        "logo" : "https://www.udc.edu/cc/wp-content/uploads/sites/10/2020/09/comptia-aplus-logo-355x300.png",
+        "name" : "CompTIA A+ Course",
+        "details" : "CompTIA’s A+ certification is the top credential for associate-level IT professionals. This 100% online course will prepare you for CompTIA A+ certification exams 220-1001 and 220-1002. You’ll learn how to install and configure operating systems, expand IT security, troubleshoot software and other common operational procedures.",
+        "price" : "$350",
+        "duration" : "98 hrs" 
+    }
+]

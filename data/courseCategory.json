@@ -1,0 +1,22 @@
+[
+    {
+        "CatID" : "01",
+        "name" : "Cyber Security"
+    },
+    {
+        "CatID" : "02",
+        "name" : "Data Structure"
+    },
+    {
+        "CatID" : "03",
+        "name" : "Programming"
+    },
+    {
+        "CatID" : "04",
+        "name" : "Web Development"
+    },
+    {
+        "CatID" : "05",
+        "name" : "Artificial Intelligence"
+    }
+]
