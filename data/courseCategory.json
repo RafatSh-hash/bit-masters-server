@@ -5,15 +5,15 @@
     },
     {
         "CatID" : "02",
-        "name" : "Data Structure"
+        "name" : "Web Development"
     },
     {
         "CatID" : "03",
-        "name" : "Programming"
+        "name" : "Data Science"
     },
     {
         "CatID" : "04",
-        "name" : "Web Development"
+        "name" : "Programming"
     },
     {
         "CatID" : "05",
