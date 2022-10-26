@@ -1,22 +1,39 @@
 [
     {
         "CatID" : "01",
-        "name" : "Cyber Security"
+        "name" : "Cyber Security",
+        "image" : "https://www.securitymagazine.com/ext/resources/images/cybersecurity-freepik.jpg?1626304720",
+        "discount" : "20%",
+        "currentStudent" : "53000+"
     },
     {
         "CatID" : "02",
-        "name" : "Web Development"
+        "name" : "Web Development",
+        "image" : "https://www.mooc.org/hubfs/web-programming-languages.jpg",
+        "discount" : "10%",
+        "currentStudent" : "30000+"
     },
     {
         "CatID" : "03",
-        "name" : "Data Science"
+        "name" : "Data Science",
+        "image" : "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Big-Data-Analyticsq.jpg",
+        "discount" : "15%",
+        "currentStudent" : "42000+"
     },
+    
     {
         "CatID" : "04",
-        "name" : "Programming"
+        "name" : "Programming",
+        "image" : "https://cs.ucsb.edu/sites/default/files/2021-06/source-4280758_1920.jpg",
+        "discount" : "12%",
+        "currentStudent" : "25000+"
     },
+    
     {
         "CatID" : "05",
-        "name" : "Artificial Intelligence"
+        "name" : "Artificial Intelligence",
+        "image" : "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/robot-code-robotics-robotic-programming-language.png",
+        "discount" : "10%",
+        "currentStudent" : "50000+"
     }
 ]
