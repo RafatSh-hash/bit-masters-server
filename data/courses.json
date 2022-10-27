@@ -309,7 +309,7 @@
         "id" : "35",
         "CatID" : "06",
         "logo" : "https://i.ytimg.com/vi/ihFBNFeXmCM/maxresdefault.jpg",
-        "name" : "Data Curation Course",
+        "name" : "Blender Course",
         "details" : "Blender Animation is an open source, 3D animation tool designed to build visual effects for movies, games, printed models, or other simulation applications. It uses 3D modeling to create realistic effects across the entire 3D pipeline from modeling to rendering to video editing. It's a community project with input from hundreds of community members. It features production level camera and object tracking, a wide array of modeling tools (including full N-gon support), and a powerful built-in tracer engine (Cycles). It allows you to draw 2D directly in the program and contains high-level support for character animation.Blender tutorials are easy to find because of its open source nature. The Basics of Blender handles using the graph editor, basic animation, creating blender files, and other foundations. Mastering the program gives you the skills to create not only movies or video games but models for 3D printing or rendering realistic prototypes. Character animation also allows you to build renderings for facial reconstructions, seen in many historical documentaries imagining what famous figures or missing persons may have looked like. Those 3D views give us insight into cases, histories, and questions we have about the past.",
         "price" : "650",
         "duration" : "127 hrs" 
