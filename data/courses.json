@@ -252,6 +252,15 @@
         "duration" : "518 hrs" 
     },
     {
+        "id" : "29",
+        "CatID" : "05",
+        "logo" : "https://sectigostore.com/blog/wp-content/uploads/2020/09/malware-analysis-feature-940x588.jpg",
+        "name" : "Data Curation Course",
+        "details" : "Pluralsight’s malware analysis courses help you learn how to break down potential malware threats, create solutions to combat them, and protect against malware in the future. Learn everything from malware analysis fundamentals to how to use the latest reverse engineering tools to combat malware.",
+        "price" : "1540",
+        "duration" : "988 hrs" 
+    },
+    {
         "id" : "30",
         "CatID" : "05",
         "logo" : "https://sectigostore.com/blog/wp-content/uploads/2020/09/malware-analysis-feature-940x588.jpg",
@@ -259,5 +268,59 @@
         "details" : "Pluralsight’s malware analysis courses help you learn how to break down potential malware threats, create solutions to combat them, and protect against malware in the future. Learn everything from malware analysis fundamentals to how to use the latest reverse engineering tools to combat malware.",
         "price" : "1540",
         "duration" : "988 hrs" 
+    },
+    {
+        "id" : "31",
+        "CatID" : "06",
+        "logo" : "https://softname.net/wp-content/uploads/2020/12/adobe-photoshop-crack.png",
+        "name" : "Adobe Photoshop",
+        "details" : "Photoshop is one of the most well-known design programs in the world. It allows you to edit, manipulate, and repair photos as well as create projects of all sorts. One of its biggest advantages is this flexibility. Photoshop is great for image retouching and digital painting, but it's also useful for graphic design projects such as banners, websites, brochures, business cards, flyers, and more. Photoshop was created by Adobe and regularly receives updates, bug fixes, and various improvements. All updates, both minor and major, come through a separate program called Creative Cloud (CC). This is a stand-alone application that manages your Adobe programs, cloud documents, and various assets such as fonts or design libraries.Introduced in 1990, Photoshop is one of the best known software products for image editing. This preeminent suite enables you to touch up photographs, change image properties, create digital art, and much more. A Photoshop course teaches you how to use its many tools to enhance existing digital photos or construct your own images. Udemy offers a range of courses in Photoshop for all skill levels to help you create vivid visuals.",
+        "price" : "140",
+        "duration" : "52 hrs" 
+    },
+    {
+        "id" : "32",
+        "CatID" : "06",
+        "logo" : "https://images5.alphacoders.com/114/1147598.png",
+        "name" : "Adobe Illustrator",
+        "details" : "Adobe Illustrator is a powerful drawing software program offered by Adobe.  Anyone, regardless of artistic or computer ability, can use Illustrator to draw shapes and lines, create text, or import graphics and pictures.   You can use Illustrator to do a layout for a book, create a web page, and the list goes on.   The best thing about it is, however, that you can do all these things easily using Illustrator once you learn the program and what different functions and features it provides.This course was designed to teach you everything you need to know to make full use of Adobe Illustrator.   However, you should be forewarned that Illustrator is a large program because there is so much you can do with it.   If you've used Illustrator before, then the first half of this course may serve as a review to you.    That's because we start at the beginning, showing you around the program and teaching you how to do the most basic functions.    These are the building blocks that will make Illustrator's advanced features easy to learn and use when we start to cover them later in the course.If you're new to Illustrator, don't be nervous or worry.  Again, we'll start at the beginning and teach you everything you need to know in simple, everyday language so you understand and learn.   We'll even give you lesson exercises and assignments to aid you on your way.   By the end of the course, no matter who you are or how much experience you've had with the program in the past, you will be an advanced user capable of using Adobe Illustrator like a professional.",
+        "price" : "70",
+        "duration" : "81 hrs" 
+    },
+    {
+        "id" : "33",
+        "CatID" : "06",
+        "logo" : "https://i0.wp.com/blog.computercreatief.nl/wp-content/uploads/2022/05/088433F7-371D-4CF3-A970-461D60AA5B87.jpeg?resize=672%2C372&ssl=1",
+        "name" : "Adobe Indesign",
+        "details" : "This 3-day course teaches students step-by-step the key techniques for working with InDesign CC. The 15 project-based step-by-step lessons show users the key techniques for working in InDesign. Designers will build a solid foundation of typographic, page layout, and document-construction skills that will enable them to produce a broad range of print and digital publications—from a simple postcard to an interactive Adobe PDF with form fields. The real-world tasks in this comprehensive book are presented in an easy-to-follow, step-by-step format and are designed to train beginning Adobe InDesign users in the program—from fundamental features to powerful layout and output skills. This book will also help experienced InDesign users elevate their skills, understand best practices, and learn about new features.",
+        "price" : "150",
+        "duration" : "98 hrs" 
+    },
+    {
+        "id" : "34",
+        "CatID" : "06",
+        "logo" : "https://i.ytimg.com/vi/qjUOdxP_L_s/maxresdefault.jpg",
+        "name" : "Krita Crash Course",
+        "details" : "Twinimation Studios first online course has launched. This course, How to create a 2D Film on a Budget, is for anyone who wants to create their own animation, but isn’t sure about the process. We will guide you from storytelling in pre-production to final edits in post-production. You will learn storyboarding, how to create animatics, different methods of animation, background design, color theory, effects, character design, and more.It is also for those who would like to animate without breaking the bank. This course will recommend numerous free programs, for not only animation, but also 3D modeling and video editing, including the free to use animation and illustration program Krita. Film creation is time consuming, but it doesn’t need to be expensive.Lastly, this course can also be purchased as a lesson plan for any instructor who wishes to teach animation to their students. Whether you are interested in animation yourself, or you are a teacher at an art school/program and are seeking teaching materials, this course will provide you with valuable insight.",
+        "price" : "140",
+        "duration" : "61 hrs" 
+    },
+    {
+        "id" : "35",
+        "CatID" : "06",
+        "logo" : "https://i.ytimg.com/vi/ihFBNFeXmCM/maxresdefault.jpg",
+        "name" : "Data Curation Course",
+        "details" : "Blender Animation is an open source, 3D animation tool designed to build visual effects for movies, games, printed models, or other simulation applications. It uses 3D modeling to create realistic effects across the entire 3D pipeline from modeling to rendering to video editing. It's a community project with input from hundreds of community members. It features production level camera and object tracking, a wide array of modeling tools (including full N-gon support), and a powerful built-in tracer engine (Cycles). It allows you to draw 2D directly in the program and contains high-level support for character animation.Blender tutorials are easy to find because of its open source nature. The Basics of Blender handles using the graph editor, basic animation, creating blender files, and other foundations. Mastering the program gives you the skills to create not only movies or video games but models for 3D printing or rendering realistic prototypes. Character animation also allows you to build renderings for facial reconstructions, seen in many historical documentaries imagining what famous figures or missing persons may have looked like. Those 3D views give us insight into cases, histories, and questions we have about the past.",
+        "price" : "650",
+        "duration" : "127 hrs" 
+    },
+    {
+        "id" : "36",
+        "CatID" : "06",
+        "logo" : "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/2018/12/gimp_pros_and_cons.png",
+        "name" : "GIMP Crash Course",
+        "details" : "GIMP has a few simple ways to augment your text and one of the best ways to get started is by using GIMPs built-in Alpha to logo maker/creator scripts. You can access them by opening the menu by clicking File/Create/Logos. Here you’ll find almost 30 different logo style to choose from. However, GIMP doesn’t show you a basic preview so you sort of have to guess or create logos using trial and error. Not very much fun and sort of a waste of time.  You can find some general previews in the GIMP manual in chapter 2 on Text under the section: Embellishing Text but it’s not really detailed enough.With that said, this is why we assembled a sample list of all of the logo styles below that GIMP offers thanks to GIMPs various Script-Fus. Note that each logo style presented below can be modified and adjusted as much as you want since we’re just demonstrating the basic style using the default settings for each logo style.",
+        "price" : "650",
+        "duration" : "127 hrs" 
     }
 ]
